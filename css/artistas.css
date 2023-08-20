@@ -478,7 +478,7 @@ main{
 
 .cards .card .imgNovo {
     height: 60%; /* Para obter melhor resultado altere a porcentagem da foto em uma futura atualização */
-    background-image: url(../img/user-icon.jpg);
+    background-image: url(./img/user-icon.jpg);
 }
 
 
