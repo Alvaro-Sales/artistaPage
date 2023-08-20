@@ -466,19 +466,19 @@ main{
 .cards .card .imgEliana {
     height: 60%;
     background-position: top;
-    background-image: url(./img/artistas/artistaEliana.jpg);
+    background-image: url(../img/artistas/artistaEliana.jpg);
     
 }
 
 .cards .card .imgJeane {
     height: 60%;
     background-position: center;
-    background-image: url(./img/artistas/artistaJeane.jpg);
+    background-image: url(../img/artistas/artistaJeane.jpg);
 }
 
 .cards .card .imgNovo {
     height: 60%; /* Para obter melhor resultado altere a porcentagem da foto em uma futura atualização */
-    background-image: url(./img/user-icon.jpg);
+    background-image: url(../img/user-icon.jpg);
 }
 
 
